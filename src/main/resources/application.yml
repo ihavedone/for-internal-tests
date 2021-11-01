@@ -1,0 +1,8 @@
+application:
+  key: "iNuv07iUFXBrMRHN56O4D11HcR7URhqAoiamfMhHIU4="
+  iv: "vOTlOroCQBAlTeK9kRQp2w=="
+  encKeyForCvvCalc: "HfSJNL0UH2Ow2Zt1FNFOmaUKLXSZRnJjA45r+he0TRHhzbWZFXMXiTMguRa8u5e6"
+
+logging:
+  level:
+    root: INFO
